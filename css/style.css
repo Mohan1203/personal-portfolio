@@ -1,0 +1,138 @@
+    body{
+        margin: 0px;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        
+        
+     }
+    h1{
+        width: 30%;
+        margin: 60px auto 0 auto;
+        font-size: 5.6rem;
+        font-family: 'Sacramento', cursive;
+        color:#66BFBF;
+
+    }
+    h2{
+        margin-top: 0px;
+        font-size: 2.5rem;
+        color:#66BFBF;
+        font-weight: normal;
+    }
+    h3{
+        color:#11999E;
+    }
+    
+    .intro{
+        padding-top: 25px;
+        background-color:#E4F9F5;
+        
+    }
+    .para{
+        width:50%;
+        margin: auto;
+        line-height: 2;
+    }
+
+    .under{
+        text-decoration: underline;
+    }
+
+    
+    .bottom-cloud{
+        position: absolute;
+        top: 300px;
+        left:250px;
+    }
+    .top-cloud{
+        position: absolute;
+        top: 40px;
+        right: 250px;
+    } 
+    .My-Img{
+        height:175px;
+        width: 175px;
+    }
+
+    .skill-row{
+        display: inline-block;
+        width:50%;
+        margin: 30px;
+        text-align: left;
+        line-height: 2;
+    }
+    .Skill-img{
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+    }
+
+    .Skill-img2{
+        width: 25%;
+        float: left;
+        margin-right: 25px;
+        }
+
+        .btn{
+            margin:30px;
+    }
+    .horizontal{
+        border-style:none;
+        border-top-style: dotted;
+        border-color:#EAF6F6;
+        border-width: 6px;
+        width: 10%;
+        margin:30px auto 0 auto;
+        display: inline-block;
+    }
+    .skil{
+        margin-top: 30px;
+        margin-bottom: 10px;
+        display: inline-block;
+        width: 50%;
+    }
+    .touch{
+        margin-top:30px;
+    }
+    .add-text{
+        
+        width: 50%;
+        line-height: 2;
+        margin:30px auto 30px auto;
+    }
+
+    .btn{
+        background-color: #11999E;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom:30px ;
+        text-decoration: none;
+        color: white;
+    }
+    .btn:hover{
+        cursor: pointer;
+        background-color: #66BFBF;
+        color: black;
+    }
+    .bottom-container{
+        margin:70px auto 0 auto;
+        background-color: #66BFBF;
+        padding: 66px;
+    }
+
+    .footer-link{
+        margin: 20px;
+        text-decoration: none;
+        color: #11999E;
+        padding: 20px;
+    }
+    .footer-link:hover{
+        background-color: #66BFBF;
+        color: white;
+    }
+
+    .lebel{
+        margin: 20px;
+        padding: 20px;
+        color: #EAF6F6;
+    }
